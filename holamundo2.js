@@ -1,5 +1,6 @@
 console.log("Hola mundo 2");
-console.log("hola);
+console.log("Hola munde ");
+console.log("hola");
 // Hola
 //jsal;dkfj
 //lka;sjdfl;
